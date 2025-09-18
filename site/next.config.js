@@ -8,10 +8,10 @@ const nextConfig = {
     description: 'Test custom kasm registry',
     icon: 'https://pietruz3000.github.io/kasm-repository/1.1/image.png',
     listUrl: 'https://pietruz3000.github.io/kasm-repository/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://github.com/Pietruz3000/kasm-repository/issues',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-repository/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
