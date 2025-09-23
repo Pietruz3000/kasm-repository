@@ -19,7 +19,7 @@
       "image": "remnux/remnux-distro",
       "uncompressed_size_mb": 6800,
       "available_tags": [
-        "develop"
+        "latest"
       ]
     }
   ]
