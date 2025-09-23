@@ -1,6 +1,6 @@
 {
   "friendly_name": "Gemma 3 QAT",
-  "image_src": "blob:https://pietruz3000.github.io/5ed7cc6a-5ed7-421f-b727-a36257507973",
+  "image_src": "gemma-logo.png",
   "description": "Quantization Aware Trained (QAT) Gemma 3 checkpoints. The model preserves similar quality as half precision while using 3x less memory.",
   "cores": 2,
   "memory": 2768,
