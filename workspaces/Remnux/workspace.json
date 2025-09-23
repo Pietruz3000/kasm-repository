@@ -17,7 +17,7 @@
     {
       "version": "1.17.x",
       "image": "remnux/remnux-distro",
-      "uncompressed_size_mb": 2170,
+      "uncompressed_size_mb": 6800,
       "available_tags": [
         "develop"
       ]
