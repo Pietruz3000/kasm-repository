@@ -19,7 +19,7 @@
       "image": "kasmweb/remnux-focal-desktop:1.16.1-rolling-daily",
       "uncompressed_size_mb": 6800,
       "available_tags": [
-        "latest"
+        "1.16.1-rolling-daily"
       ]
     }
   ]
