@@ -16,7 +16,7 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "remnux/remnux-distro",
+      "image": "kasmweb/remnux-focal-desktop:1.16.1-rolling-daily",
       "uncompressed_size_mb": 6800,
       "available_tags": [
         "latest"
